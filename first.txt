@@ -1,5 +1,11 @@
-To clone repo.
+//To clone repo.
 git.clone command is used with copied URL
-To make a file in that repo.
+//To make a file in that repo.
 touch command is used.
-[To make text file we write .txt]
+//[To make text file we write .txt]
+//to add
+git add <filename>
+//to commit
+git commit -m "<message>"
+//to push 
+git push -u orign <branch name>
